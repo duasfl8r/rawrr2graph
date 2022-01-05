@@ -28,7 +28,7 @@ assessment data collected through RAWRR.
 ![](example.png)
 
 (a Graph Commons representation of RAWRR with default testing
-data.
+data -- [see live](https://graphcommons.com/graphs/171e7db1-af11-4e51-a93a-4f3ce3a534d4?auto=true&show=info))
 
 The platform was chosen for the author's experience in using its import
 format.
